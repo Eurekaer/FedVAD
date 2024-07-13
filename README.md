@@ -1,6 +1,6 @@
 # FedVAD: Enhancing Federated Video Anomaly Detection with GPT-Driven Semantic Distillation
 ## Introduction
-This repo is the official implementation of "FedVAD: Enhancing Federated Video Anomaly Detection with GPT-Driven Semantic Distillation" (under review). 
+This repo is the official implementation of "FedVAD: Enhancing Federated Video Anomaly Detection with GPT-Driven Semantic Distillation". 
 ![image](https://github.com/Eurekaer/FedVAD/blob/main/other/framework.jpg)
 ## Requirements
 The code requires ```python>=3.8``` and the following packages:
